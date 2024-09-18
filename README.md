@@ -5,10 +5,10 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align = center>
   <a href = "https://www.linkedin.com/in/hritesh-saha/">
-  <img align = center alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin.svg" /></a>
+  <img align = center alt="HriteshSaha | LinkedIn" width="22px" src="./linkedin.svg" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href = "mailto:hritesh.saha2023@uem.edu.in">
-  <img align = center alt="debjeetbanerjee48 | Gmail" width="22px" src="./gmail.svg" /></a>
+  <img align = center alt="hriteshsaha4 | Gmail" width="22px" src="./gmail.svg" /></a>
 </p>
   <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
@@ -27,7 +27,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1 align=center></h1>
 
-[![mintRaven-05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hritesh-saha&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)](https://github.com/hritesh-saha/github-readme-activity-graph)
+[![hriteshsaha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hritesh-saha&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)](https://github.com/hritesh-saha/github-readme-activity-graph)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![stats](https://github-readme-stats.vercel.app/api?username=hritesh-saha&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
 ![language](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hritesh-saha&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&size_weight=0.5&count_weight=0.5&hide_border=true) 
 
