@@ -17,7 +17,7 @@
 <p align="left"><strong><samp>「</samp></strong></p> 
   <p align="center">
     <samp>
-        <b>I turn innovative ideas into engaging digital experiences.  Let's build something remarkable together.</b>
+        <b>I’ve always trusted my intuition and instincts when solving problems or creating something new, and I back that with dedication and hard work. Coding feels like the perfect way to channel these traits, turning ideas into real solutions and collaborating with others to make a meaningful impact.</b>
        <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=Full+stack+web+developer">
     </samp>
