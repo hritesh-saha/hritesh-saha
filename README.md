@@ -7,7 +7,7 @@
   <a href = "https://www.linkedin.com/in/hritesh-saha/">
   <img align = center alt="HriteshSaha | LinkedIn" width="22px" src="./linkedin.svg" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href = "mailto:hritesh.saha2023@uem.edu.in">
+  <a href = "mailto:hriteshsaha4@gmail.com">
   <img align = center alt="hriteshsaha4 | Gmail" width="22px" src="./gmail.svg" /></a>
 </p>
   <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
