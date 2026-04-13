@@ -41,8 +41,6 @@
 ```
 <br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<h1 align=center></h1>
-<h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritesh-saha&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph" width="100%" />
 </div>
