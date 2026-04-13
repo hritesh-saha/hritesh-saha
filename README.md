@@ -17,21 +17,45 @@
 <p align="left"><strong><samp>「</samp></strong></p> 
   <p align="center">
     <samp>
-        <b>I’ve always trusted my intuition and instincts when solving problems or creating something new, and I back that with dedication and hard work. Coding feels like the perfect way to channel these traits, turning ideas into real solutions and collaborating with others to make a meaningful impact.</b>
+        <b>I am a Software Engineer who specializes in building scalable backend architectures and secure full-stack applications. My core passion lies at the intersection of modern web development and cloud-native security—architecting systems that are not only performant but also deeply resilient.</b>
        <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=Full+stack+web+developer">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=18&color=00bfbf&center=true&width=450&height=45&repeat=true&lines=Software+Engineer;Full-Stack+Web+Developer;Cybersecurity+Enthusiast">
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
+
+```json
+{
+  "status": "Building automated security sandboxes & full-stack web apps",
+  "interests": [
+    "Vulnerability Assessment",
+    "Network Security",
+    "System Design"
+  ],
+  "research": "Active author in network security architecture",
+  "downtime": [
+    "Weightlifting",
+    "Reading Manga"
+  ]
+}
+```
 <br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1 align=center></h1>
+<h2 align="center">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritesh-saha&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph" width="100%" />
+</div>
 
-[![hriteshsaha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hritesh-saha&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)](https://github.com/hritesh-saha/github-readme-activity-graph)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![stats](https://github-readme-stats.vercel.app/api?username=hritesh-saha&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
-![language](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hritesh-saha&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&size_weight=0.5&count_weight=0.5&hide_border=true) 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hritesh-saha&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true" height="195px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hritesh-saha&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&size_weight=0.5&count_weight=0.5&hide_border=true" height="195px" />
+</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=hritesh-saha&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9%22%20alt=%22streak%20stats&hide_border=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=hritesh-saha&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9&hide_border=true" height="195px" />
+</div>
+<br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h2 align=center><img src="./code.gif" height="20"/> Tech Stack <img src="./code.gif" height="20"/></h2>
